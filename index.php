@@ -1,4 +1,3 @@
-<?php header ("location: https://escolazoe.herokuapp.com/"); ?>
 <!DOCTYPE html>
 <html lang="pt-br" class="no-js">
 <head>
