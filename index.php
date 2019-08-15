@@ -13,10 +13,10 @@ if (!(isset($_SERVER['HTTPS']) && ($_SERVER['HTTPS'] == 'on' ||
 <!DOCTYPE html>
 <html lang="pt-br" class="no-js">
 <head>
-<link rel="shortcut icon" type="image/png" href="https://i.imgur.com/PAtz3aW.png">
-    <link rel="shortcut icon" href="https://i.imgur.com/PAtz3aW.png">
-    <link rel="fluid-icon" type="image/png" href="https://i.imgur.com/PAtz3aW.png">
-    <link rel="icon" href="https://i.imgur.com/PAtz3aW.png" type="image/x-icon">
+<link rel="shortcut icon" type="image/png" href="https://i.imgur.com/fx8Teft.png">
+    <link rel="shortcut icon" href="https://i.imgur.com/fx8Teft.png">
+    <link rel="fluid-icon" type="image/png" href="https://i.imgur.com/fx8Teft.png">
+    <link rel="icon" href="https://i.imgur.com/fx8Teft.png" type="image/x-icon">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
