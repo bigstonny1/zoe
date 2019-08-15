@@ -137,7 +137,7 @@ if (!(isset($_SERVER['HTTPS']) && ($_SERVER['HTTPS'] == 'on' ||
 			<section class="cta section">
 				<div class="container">
 					<div class="cta-inner section-inner">
-						<h3 class="section-title mt-0">Dúvidas? Entre em contato agora mesmo!</h3>
+						<h3 class="section-title mt-0">Faça Missões! Entre em contato agora mesmo!</h3>
 						<div class="cta-cta">
 							<a class="button button-primary button-wide-mobile" href="https://api.whatsapp.com/send?phone=554196038320">Whatsapp</a>
 						</div>
