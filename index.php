@@ -37,7 +37,7 @@
 						<div class="hero-copy">
 	                        <h1 class="hero-title mt-0">Escola de Missões Zoe</h1>
 	                        <p class="hero-paragraph">As inscrições para a Escola de Missões Zoe, Já estão abertas, Não perca tempo e venha fazer Missões</p>
-	                        <div class="hero-cta"><a class="button button-primary" href="#">Fazer Inscrição</a><a class="button" href="#">Entrar em Contato</a></div>
+	                        <div class="hero-cta"><a class="button button-primary" href="https://api.whatsapp.com/send?phone=554196038320">Fazer Inscrição</a><a class="button" href="https://api.whatsapp.com/send?phone=5541999353276">Entrar em Contato</a></div>
 						</div>
 						<div class="hero-figure anime-element">
 							<svg class="placeholder" width="528" height="396" viewBox="0 0 528 396">
@@ -127,7 +127,7 @@
 					<div class="cta-inner section-inner">
 						<h3 class="section-title mt-0">Dúvidas? Entre em contato agora mesmo!</h3>
 						<div class="cta-cta">
-							<a class="button button-primary button-wide-mobile" href="#">Whatsapp</a>
+							<a class="button button-primary button-wide-mobile" href="https://api.whatsapp.com/send?phone=554196038320">Whatsapp</a>
 						</div>
 					</div>
 				</div>
@@ -144,16 +144,16 @@
                     </div>
                     <ul class="footer-links list-reset">
                         <li>
-                            <a href="#">Contato</a>
+                            <a href="#">Conheça</a>
                         </li>
                         <li>
-                            <a href="#">A Empresa</a>
+                            <a href="#">Saiba mais</a>
                         </li>
                         <li>
                             <a href="#">FAQ's</a>
                         </li>
                         <li>
-                            <a href="#">Suporte</a>
+                            <a href="#">Ajuda</a>
                         </li>
                     </ul>
                     <ul class="footer-social-links list-reset">
